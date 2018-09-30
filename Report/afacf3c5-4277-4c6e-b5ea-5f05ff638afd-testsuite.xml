@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1538204976245" stop="1538204976257">
+  <name>parametrize</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1538204976245" status="passed" stop="1538204976249">
+      <name>Test.test01[\u5eb7-18]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14164-MainThread"/>
+        <label name="host" value="DESKTOP-QF7LAAB"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1538204976251" status="passed" stop="1538204976255">
+      <name>Test.test01[\u9ec4-26]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14164-MainThread"/>
+        <label name="host" value="DESKTOP-QF7LAAB"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1538204976256" status="passed" stop="1538204976257">
+      <name>Test.test01[\u674e-20]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14164-MainThread"/>
+        <label name="host" value="DESKTOP-QF7LAAB"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

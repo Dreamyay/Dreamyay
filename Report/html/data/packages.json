@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "parametrize",
+    "children" : [ {
+      "name" : "Test.test01[\\u5eb7-18]",
+      "uid" : "bfbc3441d52523fb",
+      "parentUid" : "9d08e75b7ae5d869e67e500d2383911b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538189455262,
+        "stop" : 1538189455272,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test.test01[\\u9ec4-26]",
+      "uid" : "2c35f11f7766666c",
+      "parentUid" : "9d08e75b7ae5d869e67e500d2383911b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538189455274,
+        "stop" : 1538189455277,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test.test01[\\u674e-20]",
+      "uid" : "5b32b626122fff05",
+      "parentUid" : "9d08e75b7ae5d869e67e500d2383911b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538189455279,
+        "stop" : 1538189455284,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9d08e75b7ae5d869e67e500d2383911b"
+  } ]
+}

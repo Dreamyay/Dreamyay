@@ -1,0 +1,60 @@
+{
+  "uid" : "bfbc3441d52523fb",
+  "name" : "Test.test01[\\u5eb7-18]",
+  "fullName" : "parametrize.Test.test01[\\u5eb7-18]",
+  "historyId" : "b955e181b4e502119d892e9043cf731d",
+  "time" : {
+    "start" : 1538189455262,
+    "stop" : 1538189455272,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-QF7LAAB"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "17248-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "parametrize"
+  }, {
+    "name" : "testClass",
+    "value" : "parametrize"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test.test01[\\u5eb7-18]"
+  }, {
+    "name" : "package",
+    "value" : "parametrize"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfbc3441d52523fb.json",
+  "parameterValues" : [ ]
+}
